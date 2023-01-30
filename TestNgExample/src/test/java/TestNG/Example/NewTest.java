@@ -20,6 +20,7 @@ public class NewTest {
 		System.out.println("I am executing before Test");
 		System.setProperty("webdriver.chrome.driver",
 				"C:\\Users\\pooja\\Desktop\\Selenium\\chromedriver_win32\\chromedriver.exe");
+		System.out.println("Hiii");
 		
 	}
 
